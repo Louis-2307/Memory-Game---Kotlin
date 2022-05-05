@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Dự Án UXUI "</string>
+    <string name="concentration">Trò Chơi Concentration</string>
+    <string name="reset">Chơi Lại</string>
+    <string name="attemp">Số Lần Chơi:</string>
+    <string name="camel">Lạc Đà</string>
+    <string name="coala">Gấu Túi</string>
+    <string name="fox">Cáo</string>
+    <string name="lion">Sư Tử</string>
+    <string name="monkey">Khỉ</string>
+    <string name="wolf">Sói</string>
+</resources>

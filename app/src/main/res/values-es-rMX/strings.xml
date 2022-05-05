@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Proyecto Final UIUX</string>
+    <string name="concentration">Juego de concentración</string>
+    <string name="reset">Reiniciar el juego</string>
+    <string name="attemp">Tiempo de intento:</string>
+    <string name="camel">Camello</string>
+    <string name="coala">Koala</string>
+    <string name="fox">Zorro</string>
+    <string name="lion">León</string>
+    <string name="monkey">Mono</string>
+    <string name="wolf">Lobo</string>
+</resources>
